@@ -1,0 +1,10 @@
+//Christina Duran
+//crduran
+//cmps101
+//10/10/14
+
+List.java //ADT made for use by clients
+ListClient.java //provided file
+Lex.java //program utalizing List.java to alphabetize a file of strings
+Makefile //Provided, compiles required files
+README
